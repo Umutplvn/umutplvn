@@ -112,6 +112,6 @@ I'm a disciplined and dedicated engineer with a passion for learning. As a full-
     <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a> 
    <a href="https://umut-pehlivan.netlify.app/”">
-    <img align="right" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/netlify-D14836?style=for-the-badge&logo=netlify&logoColor=white)https://img.shields.io/badge/netlify-D14836?style=for-the-badge&logo=netlify&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/netlify-D14836?style=for-the-badge&logo=netlify&logoColor=white)https://img.shields.io/badge/netlify-D14836?style=for-the-badge&logo=netlify&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 <br />
