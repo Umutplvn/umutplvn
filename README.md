@@ -108,7 +108,7 @@ I'm a disciplined and dedicated engineer with a passion for learning. As a full-
   <a href="https://www.linkedin.com/in/umut-pehlivan-817b28174/">
     <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a> 
-   <a href="https://umut-pehlivan.netlify.app/”">
+   <a href="https://umut-pehlivan.netlify.app/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" style="vertical-align:top; margin:6px 4px">
   </a>  
   </a>  
