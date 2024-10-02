@@ -15,7 +15,7 @@
 ## About me
 <div>
 
-<picture> <img align="right" src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=ecf05e476e7v7a1x3wuxebcvxjqewxhok4jmb9c4kb11sgrs&ep=v1_gifs_search&rid=giphy.gif&ct=g" width =200px></picture>
+<picture> <img align="right" src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width =200px></picture>
 
 <p>
 I'm a disciplined and dedicated engineer with a passion for learning. As a full-stack developer, I create innovative digital solutions that combine creativity and functionality. My commitment to lifelong learning keeps me at the forefront of technology trends, ensuring I deliver effective solutions. I excel at collaborating with diverse teams and clients, using my strong communication skills to bring visions to life. Let's create digital excellence together.
