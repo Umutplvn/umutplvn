@@ -15,7 +15,7 @@
 ## About me
 <div>
 
-<picture> <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width =200px></picture>
+<picture> <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width =400px></picture>
 
 <p>
 I'm a disciplined and dedicated engineer with a passion for learning. As a full-stack developer, I create innovative digital solutions that combine creativity and functionality. My commitment to lifelong learning keeps me at the forefront of technology trends, ensuring I deliver effective solutions. I excel at collaborating with diverse teams and clients, using my strong communication skills to bring visions to life. Let's create digital excellence together.
