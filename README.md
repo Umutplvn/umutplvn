@@ -102,7 +102,7 @@ I'm a disciplined and dedicated engineer with a passion for learning. As a full-
 
 ## Contact Me
 <p align="right">
-  <a href="mailto:umutpehlivan2078@gmail.com”">
+  <a href="mailto:umutpehlivan2078@gmail.com">
     <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
   <a href="https://www.linkedin.com/in/umut-pehlivan-817b28174/">
